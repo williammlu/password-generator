@@ -1,6 +1,7 @@
 import hashlib
 import pdb
 
+
 def swapLetters(s, swap_index):
     """
     In ever pair of values in swap_index, letters in s are swapped
